@@ -2,3 +2,4 @@ node_modules
 avatars
 .idea
 package-lock.json
+run.js
