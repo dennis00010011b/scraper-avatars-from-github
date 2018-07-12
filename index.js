@@ -3,7 +3,7 @@ const  fetch = require('node-fetch');
 const request = require('request');
 const fs = require('fs-extra');
 
-exports.loadAvatars = async function (url,path) {
+exports.loadAvatars =   function (url,path) {
     try {
 
         let page = "";
